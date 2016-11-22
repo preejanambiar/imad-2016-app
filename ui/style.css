@@ -10,11 +10,12 @@ body {
 
 .header{
     padding-left:100px;
+    background-color:#E6B131;
+    color:#000000;   
 }
 span .highlight{
     padding:2px;
-    background-color:#E6B131;
-    color:#000000;   
+    
 }
 .text-big {
     font-size: 300%;
