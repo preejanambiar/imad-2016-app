@@ -9,10 +9,12 @@ body {
 }
 
 .header{
-    padding-left:200px;
+    padding-left:100px;
+}
+span .highlight{
+    padding:2px;
     background-color:#E6B131;
-    color:#000000;
-    
+    color:#000000;   
 }
 .text-big {
     font-size: 300%;
