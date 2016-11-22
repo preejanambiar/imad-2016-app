@@ -9,7 +9,7 @@ body {
 }
 
 .header{
-    padding-left:100px;
+    padding-left:2px 2px 100px 2px;
     background-color:#E6B131;
     color:#000000;   
 }
