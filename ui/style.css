@@ -10,7 +10,8 @@ body {
 
 .header{
     padding-left:200px;
-    color:#E6B131;
+    background-color:#E6B131;
+    color:#000000;
 }
 .text-big {
     font-size: 300%;
