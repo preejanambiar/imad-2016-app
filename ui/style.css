@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: #ffffff;
+    background-color: lightgrey;
     margin-top: 75px;
 }
 
@@ -8,15 +8,6 @@ body {
     text-align: center;
 }
 
-.header{
-    padding-left:20px 2px 100px 2px;
-    background-color:#E6B131;
-    color:#000000;   
-}
-span .highlight{
-    padding:2px;
-    
-}
 .text-big {
     font-size: 300%;
 }
@@ -24,8 +15,43 @@ span .highlight{
 .bold {
     font-weight: bold;
 }
-
-.img-medium {
-    height: 200px;
+.image1{
+	height:200px; 
+	margin-left:15px;
+	margin-top:5px;
 }
-
+.name{
+	margin-top:35px;
+	margin-left:50px;
+}
+.myprofile{
+	margin-top:85px;
+}
+h4{
+	margin-left:50px;
+}
+.sections{
+	font-size:16px;
+}
+.sections-title{
+	background-color:lightgrey;
+	font-weight: bold;
+}
+  body {
+      position: relative;
+  }
+  .affix {
+      top: 20px;
+  }
+  div.col-sm-9 div {
+      height: 250px;
+      font-size: 28px;
+  }
+  
+  #profile , #employment, #education, #skills,  #portfolio , #contact{color: #000; background-color: ;}
+  
+  @media screen and (max-width: 810px) {
+    #profile , #employment, #education, #skills,  #portfolio , #contact{
+        margin-left: 150px;
+    }
+  }
