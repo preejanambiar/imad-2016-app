@@ -43,13 +43,6 @@ h4{
   .affix {
       top: 20px;
   }
-  div.col-sm-9 div {
-      height: 250px;
-      font-size: 28px;
-  }
-  
-  #profile , #employment, #education, #skills,  #portfolio , #contact{color: #000; background-color: ;}
-  
   @media screen and (max-width: 810px) {
     #profile , #employment, #education, #skills,  #portfolio , #contact{
         margin-left: 150px;
